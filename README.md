@@ -12,7 +12,7 @@ This lab will configure DHCP. The DHCP server is on the same subnet as the clien
 
 <p align="center">
 <h4>Lab Topology:</h4>
-In this Lab topology the network devices and PCS will be configured to obtain IP configurations from the DHCP server. All the devices are on the same subnet. <br/>
+In this Lab topology the network devices and PCS will be configured to obtain IP configurations from the DHCP server. The DHCP server is on the same subnet as the clients. <br/>
 The lab consists of 1 router, 1 switch, 1 DHCP server and 3 computers. <br/>
 <img src="https://i.imgur.com/VHr13bJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
