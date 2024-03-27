@@ -1,7 +1,7 @@
 <h1>DHCP</h1>
 
 <h2>Description</h2>
-This lab will configure DHCP. 
+This lab will configure DHCP. The DHCP server is on the same subnet as the clients
 <br />
 
 <h2>Environments Used </h2>
